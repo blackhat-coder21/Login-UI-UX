@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735721283133",
+    "project_id": "calldesk-c27ee",
+    "storage_bucket": "calldesk-c27ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735721283133:android:969c26c33daddaca7d9454",
+        "android_client_info": {
+          "package_name": "com.example.calldesk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf8YgI6TY-Z3ytYqkVDDFFPXOXA9CZeaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
